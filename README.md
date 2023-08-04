@@ -1,2 +1,2 @@
-# special
-Some of my most awesome campaigns
+# special contains some of my most well-performed campaigns
+so be sure to follow before leaving this repository...
